@@ -1,10 +1,7 @@
 const help = (prefix) => {
 	return `
 
-BOT PELO CANAL MS PLAY
-
-Canal MS PLAY: https://www.youtube.com/msplay
-Site oficial do bot do canal MS PLAY: http://whatsbot.xyz/
+BOT CRIADO PELO YOROS
 	
 *COMANDOS PRA FIGURINHAS:*
 
