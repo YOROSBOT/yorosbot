@@ -25,8 +25,8 @@ const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const setting = JSON.parse(fs.readFileSync('./src/settings.json'))
 prefix = setting.prefix
 blocked = []
-console.log("\x1b[36m","BOT DISPONIBILIZADO PELO CANAL MS PLAY");
-function kyun(seconds){
+console . log ( "\ x1b [36m" , "BOT DISPONIBILIZADO PELO AK YOROS");
+function        kyun ( segundos ) {
   function pad(s){
     return (s < 10 ? '0' : '') + s;
   }
